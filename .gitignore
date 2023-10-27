@@ -16,3 +16,10 @@ media
 
 # Env file
 .env
+
+# Local
+
+.idea/
+cert.crt
+cert.key
+staticfiles/
